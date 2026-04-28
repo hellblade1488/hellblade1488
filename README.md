@@ -3,3 +3,22 @@
 I'm a builder on **Base** — Coinbase's Ethereum L2.
 
 I started learning by farming airdrops and ended up actually shipping things on chain.
+
+---
+
+## 🧱 What I'm building
+
+### Smart contracts on Base mainnet
+
+Five Solidity contracts deployed and verified on Base, each demonstrating a different on-chain primitive:
+
+| Contract | What it does |
+|----------|--------------|
+| **GuestBook** | Public on-chain guestbook — anyone can sign with a 280-char message |
+| **TipJar** | ETH tip jar with optional notes; owner-only withdrawal |
+| **SimpleVoting** | Lightweight on-chain polling, one vote per address |
+| **TimeLockedSavings** | Per-user ETH lockbox until a chosen unlock time |
+| **OnChainTodo** | Personal todo list scoped per address |
+
+→ Full list with addresses and Sourcify verification:
+[**CONTRACTS.md**](https://github.com/hellblade1488/onchain-base/blob/main/CONTRACTS.md)
