@@ -46,3 +46,14 @@ Connect any wallet, drop a message, and it lives forever in a smart contract on 
 ## 📦 Repos
 
 - [**onchain-base**](https://github.com/hellblade1488/onchain-base) — experiments and tools for building on Base L2: contracts, dApps, and a 2048 game from earlier days
+
+---
+
+## 🌐 On chain
+
+- ⛓️ My address on Base: [`0xF41…58C70`](https://basescan.org/address/0xf41...58c70)
+- 📜 GuestBook contract: [`0x7015…999f`](https://basescan.org/address/0x701546B92991CAC01f98c9aaB3AB8C8dd6d1999f)
+
+---
+
+> «The goal is to be a builder.»
