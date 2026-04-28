@@ -22,3 +22,11 @@ Five Solidity contracts deployed and verified on Base, each demonstrating a diff
 
 → Full list with addresses and Sourcify verification:
 [**CONTRACTS.md**](https://github.com/hellblade1488/onchain-base/blob/main/CONTRACTS.md)
+
+### Live dApp
+
+🟦 **Base GuestBook** — sign an immutable message on chain.
+Connect any wallet, drop a message, and it lives forever in a smart contract on Base.
+
+[🔗 **Try it live**](https://hellblade1488.github.io/onchain-base/dapps/guestbook/) ·
+[Source](https://github.com/hellblade1488/onchain-base/tree/main/dapps/guestbook)
