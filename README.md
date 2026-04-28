@@ -30,3 +30,13 @@ Connect any wallet, drop a message, and it lives forever in a smart contract on 
 
 [🔗 **Try it live**](https://hellblade1488.github.io/onchain-base/dapps/guestbook/) ·
 [Source](https://github.com/hellblade1488/onchain-base/tree/main/dapps/guestbook)
+
+---
+
+## 🛠 Tech
+
+- **Solidity** `^0.8.20`
+- **ethers.js** v6 (no build step, single-file dApps)
+- **Remix IDE** for contract deployment
+- **GitHub Pages** for free dApp hosting
+- **Base mainnet** (chain id `8453`)
