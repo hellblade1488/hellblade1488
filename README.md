@@ -40,3 +40,9 @@ Connect any wallet, drop a message, and it lives forever in a smart contract on 
 - **Remix IDE** for contract deployment
 - **GitHub Pages** for free dApp hosting
 - **Base mainnet** (chain id `8453`)
+
+---
+
+## 📦 Repos
+
+- [**onchain-base**](https://github.com/hellblade1488/onchain-base) — experiments and tools for building on Base L2: contracts, dApps, and a 2048 game from earlier days
