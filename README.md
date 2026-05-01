@@ -34,17 +34,6 @@ but huge in mindset.
 
 ---
 
-## 🧭 How I build
-
-- **Single-file dApps.** No bundlers, no `node_modules`. Anyone can read the source in 5 minutes.
-- **Verify everything.** Every contract is verified on Sourcify so the source is publicly readable.
-- **No admin override on user funds.** If a contract holds ETH belonging to a user (Vault), even
-  the deployer can't pull it out before the unlock time. Code is the only authority.
-- **Free hosting.** GitHub Pages serves all five dApps for $0. No backend, no database.
-- **Public by default.** Every interaction is on chain and indexable.
-
----
-
 ## 📌 Pinned project
 
 ### [onchain-base](https://github.com/hellblade1488/onchain-base)
@@ -55,7 +44,11 @@ Five Solidity contracts + five live dApps hosted on GitHub Pages.
 Pure HTML/CSS/JS — no build step, no `node_modules`, no frameworks.
 Anyone can clone the repo and serve any dApp with `npx serve dapps/<name>`.
 
-Try the **GuestBook** live: [hellblade1488.github.io/onchain-base/dapps/guestbook](https://hellblade1488.github.io/onchain-base/dapps/guestbook/)
+My favourite is the **🔒 Vault** — lock ETH on Base until a chosen date,
+with a live ticking countdown to unlock. Even the contract deployer
+cannot pull the funds out before time. Code is the only authority.
+
+Try it live: [hellblade1488.github.io/onchain-base/dapps/vault](https://hellblade1488.github.io/onchain-base/dapps/vault/)
 
 ---
 
@@ -97,17 +90,6 @@ Five Solidity contracts deployed and verified on Base, each demonstrating a diff
 - **Remix IDE** for contract deployment
 - **GitHub Pages** for free dApp hosting
 - **Base mainnet** (chain id `8453`)
-
----
-
-## 🚀 What's next
-
-- ERC-20 token with on-chain claim
-- Simple NFT mint page (ERC-721 with off-chain metadata pinned to IPFS)
-- Multisig wallet experiment (M-of-N signatures)
-- A small DEX prototype using a constant-product formula
-
-Same pattern as the existing dApps: one contract, one single-file frontend, hosted free on GitHub Pages.
 
 ---
 
