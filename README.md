@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Chel
 
-I'm a builder on **Base**
+I'm a builder on **Base** — Coinbase's Ethereum L2.
+
 I started learning by farming airdrops and ended up actually shipping things on chain.
 
 ---
@@ -22,13 +23,19 @@ Five Solidity contracts deployed and verified on Base, each demonstrating a diff
 → Full list with addresses and Sourcify verification:
 [**CONTRACTS.md**](https://github.com/hellblade1488/onchain-base/blob/main/CONTRACTS.md)
 
-### Live dApp
+### Live dApps
 
-🟦 **Base GuestBook** — sign an immutable message on chain.
-Connect any wallet, drop a message, and it lives forever in a smart contract on Base.
+Five working frontends, all hosted free on GitHub Pages:
 
-[🔗 **Try it live**](https://hellblade1488.github.io/onchain-base/dapps/guestbook/) ·
-[Source](https://github.com/hellblade1488/onchain-base/tree/main/dapps/guestbook)
+| dApp | Description | Open |
+|------|-------------|------|
+| 🟦 **GuestBook** | Sign an immutable 280-char message on chain | [open ↗](https://hellblade1488.github.io/onchain-base/dapps/guestbook/) |
+| 💰 **TipJar** | Send ETH on Base with a public note | [open ↗](https://hellblade1488.github.io/onchain-base/dapps/tipjar/) |
+| 🗳️ **Voting** | Create polls and vote on chain | [open ↗](https://hellblade1488.github.io/onchain-base/dapps/voting/) |
+| 🔒 **Vault** | Time-locked ETH savings with countdown | [open ↗](https://hellblade1488.github.io/onchain-base/dapps/vault/) |
+| 📋 **Todo** | Personal todo list, scoped per address | [open ↗](https://hellblade1488.github.io/onchain-base/dapps/todo/) |
+
+[Source ↗](https://github.com/hellblade1488/onchain-base/tree/main/dapps)
 
 ---
 
@@ -44,13 +51,13 @@ Connect any wallet, drop a message, and it lives forever in a smart contract on 
 
 ## 📦 Repos
 
-- [**onchain-base**](https://github.com/hellblade1488/onchain-base) — experiments and tools for building on Base L2: contracts, dApps, and a 2048 game from earlier days
+- [**onchain-base**](https://github.com/hellblade1488/onchain-base) — smart contracts and dApps on Base L2
 
 ---
 
 ## 🌐 On chain
 
-- ⛓️ My address on Base: [`0xF41…58C70`](https://basescan.org/address/0xf41...58c70)
+- ⛓️ My address on Base: [`0xF413…58C70`](https://basescan.org/address/0xf41...8c70)
 - 📜 GuestBook contract: [`0x7015…999f`](https://basescan.org/address/0x701546B92991CAC01f98c9aaB3AB8C8dd6d1999f)
 
 ---
