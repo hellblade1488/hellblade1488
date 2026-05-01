@@ -2,6 +2,11 @@
 
 I'm a builder on **Base** — Coinbase's Ethereum L2.
 
+![Base](https://img.shields.io/badge/network-Base_mainnet-0052ff?style=flat-square)
+![Solidity](https://img.shields.io/badge/Solidity-^0.8.20-363636?style=flat-square&logo=solidity)
+![ethers.js](https://img.shields.io/badge/ethers.js-v6-2535a0?style=flat-square)
+![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+
 I started learning by farming airdrops and ended up actually shipping things on chain.
 
 ---
