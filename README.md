@@ -11,6 +11,15 @@ I started learning by farming airdrops and ended up actually shipping things on 
 
 ---
 
+## 📊 Stats
+
+- **5** smart contracts deployed on Base mainnet
+- **5** live dApps, all hosted on GitHub Pages
+- **All contracts verified** on Sourcify
+- **0** lines of `node_modules` — every dApp is a single HTML file
+
+---
+
 ## 🧱 What I'm building
 
 ### Smart contracts on Base mainnet
